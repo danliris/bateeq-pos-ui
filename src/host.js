@@ -1,6 +1,6 @@
 module.exports = { 
-    core: "http://bateeq-core-api-uat-dev.mybluemix.net/v1/core",
-    auth: "http://dl-auth-api-uat-dev.mybluemix.net",
+    core: "http://bateeq-core-api-dev.mybluemix.net/v1/core",
+    auth: "http://bateeq-auth-api-dev.mybluemix.net",
     //PUBLISH
     inventory: "http://bateeq-inventory-api-dev.mybluemix.net/v1/inventory",
     merchandiser:"http://bateeq-inventory-api-dev.mybluemix.net/v1/merchandiser",
